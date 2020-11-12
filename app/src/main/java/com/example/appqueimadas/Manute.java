@@ -14,8 +14,7 @@ import java.util.List;
 
 public class Manute {
 
-    static public String Murl = "http://192.168.15.12/aps8semestre/";
-
+    static public String Murl = "http://queimadas.000webhostapp.com/";
 
     public void cadastrarUsuario(final Context context, String nome, String senha){
 
@@ -108,7 +107,6 @@ public class Manute {
                     }
                 });
     }
-
 
 }
 
